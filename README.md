@@ -13,6 +13,12 @@
 1.  **Open the source code and start editing!**
 
     The site is now running at `http://localhost:8000`!
+    
+    
+  **This was made with the help of the following: !**
+
+    1.https://github.com/contentful/starter-gatsby-blog
+    2.https://github.com/gatsbyjs/gatsby-starter-default
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
