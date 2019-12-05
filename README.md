@@ -7,7 +7,7 @@
 
     ```shell
     cd gatsby-site/
-    gatsby develop
+    npm run develop
     ```
 
 1.  **Open the source code and start editing!**
